@@ -1,5 +1,5 @@
 
-# 👋 Stacvirus — AI Engineer & Senior Software Engineer
+# 👋 MELIGA Vincent — AI Engineer & Senior Software Engineer
 **MLOps · LLMOps · C++ · Python · Rust · Systems for ML**
 
 > I build end-to-end AI platforms: data → training → eval → serving → SLOs.  
