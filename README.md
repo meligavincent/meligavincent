@@ -6,7 +6,7 @@
 > Strong focus on reliability, performance, and clean software architecture.
 
 - 🧠 Current: production LLM features (RAG/agents/evals), GPU serving, low-latency APIs
-- 🧩 Strengths: C++/Python systems, perf optimization, API design, large-scale CI/CD for ML
+- 🧩 Strengths: C++/Rust/Python systems, perf optimization, API design, large-scale CI/CD for ML
 - 🤝 Open to collaborate on inference optimization, AI gateways, and MLOps tooling
 - 📫 **699580621meliga@gmail.com** · WhatsApp: `+237655379258`
 
