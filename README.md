@@ -67,3 +67,43 @@ Open to **international remote roles, engineering contracts and relocation oppor
 Particularly interested in **AI Engineering, Generative AI, AI Platform Engineering, ML Systems and Cloud-Native Engineering**, including opportunities in **quantitative trading, banking and fintech**.
 
 [LinkedIn](https://www.linkedin.com/in/vincent-th%C3%A9ophane-meliga-naga-97934b17b/) · **699580621meliga@gmail.com**
+
+<!-- TECH-FOOTPRINT:START -->
+## Technology Footprint
+
+> Automatically generated from selected production-oriented portfolio repositories.
+
+### Languages
+`C++` · `CSS` · `JavaScript` · `Python` · `Rust` · `TypeScript`
+
+### AI Engineering
+`AI Agents` · `LLMs` · `RAG`
+
+### Backend & Systems
+`Axum` · `CMake` · `Conan` · `FastAPI` · `Ninja` · `Pydantic` · `Serde` · `Tokio` · `gRPC` · `uv`
+
+### Frontend
+`GSAP` · `Next.js` · `React` · `Tailwind CSS` · `Three.js` · `TypeScript`
+
+### Cloud Native & Platform
+`Docker` · `GitHub Actions` · `Helm` · `Kubernetes` · `OpenTelemetry` · `Terraform`
+
+### Data & Messaging
+`ClickHouse` · `Kafka` · `NATS` · `NATS JetStream` · `PostgreSQL` · `Redis` · `Redpanda` · `S3-compatible storage` · `pgvector`
+
+### Portfolio Coverage
+
+| Project | Domain | Status |
+| --- | --- | --- |
+| Quant Strategy Studio | Quantitative Trading | Active |
+| Finance Research Copilot | Investment Research | Active |
+| Matrix Research Workspace | Research Intelligence | Active |
+| Agentic Compliance Platform | Regulatory Compliance | Active |
+| Clinical Ambient Copilot | Healthcare | Active |
+| Clinical Workflow Intelligence | Clinical Operations | Active |
+| Teacher-Student AI Platform | Education | Active |
+| Adaptive Math Tutor | Education | Active |
+| Merchant Operations Agent | Commerce Operations | Active |
+| Customer Outcomes Agent | Customer Success | Active |
+
+<!-- TECH-FOOTPRINT:END -->

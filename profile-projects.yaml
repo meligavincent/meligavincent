@@ -1,0 +1,61 @@
+projects:
+  - repo: meligavincent/quant-strategy-studio
+    name: Quant Strategy Studio
+    domain: Quantitative Trading
+    inspiration: Composer
+    status: active
+    enabled: true
+  - repo: meligavincent/finance-research-copilot
+    name: Finance Research Copilot
+    domain: Investment Research
+    inspiration: Rogo
+    status: active
+    enabled: true
+  - repo: meligavincent/matrix-research-workspace
+    name: Matrix Research Workspace
+    domain: Research Intelligence
+    inspiration: Hebbia
+    status: active
+    enabled: true
+  - repo: meligavincent/agentic-compliance-platform
+    name: Agentic Compliance Platform
+    domain: Regulatory Compliance
+    inspiration: Norm AI
+    status: active
+    enabled: true
+  - repo: meligavincent/clinical-ambient-copilot
+    name: Clinical Ambient Copilot
+    domain: Healthcare
+    inspiration: Abridge
+    status: active
+    enabled: true
+  - repo: meligavincent/clinical-workflow-intelligence
+    name: Clinical Workflow Intelligence
+    domain: Clinical Operations
+    inspiration: Ambience Healthcare
+    status: active
+    enabled: true
+  - repo: meligavincent/teacher-student-ai-platform
+    name: Teacher-Student AI Platform
+    domain: Education
+    inspiration: SchoolAI
+    status: active
+    enabled: true
+  - repo: meligavincent/adaptive-math-tutor
+    name: Adaptive Math Tutor
+    domain: Education
+    inspiration: Synthesis Tutor
+    status: active
+    enabled: true
+  - repo: meligavincent/merchant-operations-agent
+    name: Merchant Operations Agent
+    domain: Commerce Operations
+    inspiration: Shopify Sidekick
+    status: active
+    enabled: true
+  - repo: meligavincent/customer-outcomes-agent
+    name: Customer Outcomes Agent
+    domain: Customer Success
+    inspiration: Sierra
+    status: active
+    enabled: true

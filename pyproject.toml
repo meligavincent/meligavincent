@@ -1,0 +1,11 @@
+[project]
+name = "github-profile-tech-footprint"
+version = "0.1.0"
+description = "Static, allowlist-only technology footprint generator"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.uv]
+package = false

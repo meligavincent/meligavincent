@@ -1,0 +1,3387 @@
+{
+  "AI Agents": {
+    "categories": [
+      "AI Engineering"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/helm/product/values.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "packages/contracts/README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "packages/contracts/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/api/README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      }
+    ],
+    "repositories": [
+      "meligavincent/finance-research-copilot",
+      "meligavincent/agentic-compliance-platform"
+    ]
+  },
+  "Axum": {
+    "categories": [
+      "Backend & Systems"
+    ],
+    "evidence": [
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/finance-research-copilot",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "C++": {
+    "categories": [
+      "Languages"
+    ],
+    "evidence": [
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/quant-strategy-studio"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio"
+    ]
+  },
+  "CMake": {
+    "categories": [
+      "Backend & Systems"
+    ],
+    "evidence": [
+      {
+        "path": "services/engine/CMakeLists.txt",
+        "repository": "meligavincent/quant-strategy-studio"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio"
+    ]
+  },
+  "CSS": {
+    "categories": [
+      "Languages"
+    ],
+    "evidence": [
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "ClickHouse": {
+    "categories": [
+      "Data & Messaging"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Conan": {
+    "categories": [
+      "Backend & Systems"
+    ],
+    "evidence": [
+      {
+        "path": "services/engine/conanfile.py",
+        "repository": "meligavincent/quant-strategy-studio"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio"
+    ]
+  },
+  "Docker": {
+    "categories": [
+      "Cloud Native & Platform"
+    ],
+    "evidence": [
+      {
+        "path": "apps/marketing/Dockerfile",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/web/Dockerfile",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/engine/Dockerfile",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/marketing/Dockerfile",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/web/Dockerfile",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/engine/Dockerfile",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/marketing/Dockerfile",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/web/Dockerfile",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/marketing/Dockerfile",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/web/Dockerfile",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/marketing/Dockerfile",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/web/Dockerfile",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/engine/Dockerfile",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/marketing/Dockerfile",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/web/Dockerfile",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/engine/Dockerfile",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/marketing/Dockerfile",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/web/Dockerfile",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/marketing/Dockerfile",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/web/Dockerfile",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/marketing/Dockerfile",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/web/Dockerfile",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/engine/Dockerfile",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/marketing/Dockerfile",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "apps/web/Dockerfile",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "services/ai/Dockerfile",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "services/api/Dockerfile",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "services/engine/Dockerfile",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "services/workers/Dockerfile",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "FastAPI": {
+    "categories": [
+      "Backend & Systems"
+    ],
+    "evidence": [
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "GSAP": {
+    "categories": [
+      "Frontend"
+    ],
+    "evidence": [
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "GitHub Actions": {
+    "categories": [
+      "Cloud Native & Platform"
+    ],
+    "evidence": [
+      {
+        "path": ".github/workflows/ci.yml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": ".github/workflows/security.yml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": ".github/workflows/ci.yml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": ".github/workflows/security.yml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": ".github/workflows/ci.yml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": ".github/workflows/security.yml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": ".github/workflows/ci.yml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": ".github/workflows/security.yml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": ".github/workflows/ci.yml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": ".github/workflows/security.yml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": ".github/workflows/ci.yml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": ".github/workflows/security.yml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": ".github/workflows/ci.yml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": ".github/workflows/security.yml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": ".github/workflows/ci.yml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": ".github/workflows/security.yml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": ".github/workflows/ci.yml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": ".github/workflows/security.yml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": ".github/workflows/ci.yml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": ".github/workflows/security.yml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Helm": {
+    "categories": [
+      "Cloud Native & Platform"
+    ],
+    "evidence": [
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/helm/product/Chart.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "JavaScript": {
+    "categories": [
+      "Languages"
+    ],
+    "evidence": [
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Kafka": {
+    "categories": [
+      "Data & Messaging"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Kubernetes": {
+    "categories": [
+      "Cloud Native & Platform"
+    ],
+    "evidence": [
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/engine.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/engine.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/engine.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/engine.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/helm/product/templates/deployment.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/ai.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/api.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/engine.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/hpa.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/namespace.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/networkpolicy.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/pdb.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/kubernetes/base/workers.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "LLMs": {
+    "categories": [
+      "AI Engineering"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "NATS": {
+    "categories": [
+      "Data & Messaging"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/finance-research-copilot",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/merchant-operations-agent"
+    ]
+  },
+  "NATS JetStream": {
+    "categories": [
+      "Data & Messaging"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/finance-research-copilot",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/merchant-operations-agent"
+    ]
+  },
+  "Next.js": {
+    "categories": [
+      "Frontend"
+    ],
+    "evidence": [
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Ninja": {
+    "categories": [
+      "Backend & Systems"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/engine/Dockerfile",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "OpenTelemetry": {
+    "categories": [
+      "Cloud Native & Platform"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "PostgreSQL": {
+    "categories": [
+      "Data & Messaging"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Pydantic": {
+    "categories": [
+      "Backend & Systems"
+    ],
+    "evidence": [
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Python": {
+    "categories": [
+      "Languages"
+    ],
+    "evidence": [
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "RAG": {
+    "categories": [
+      "AI Engineering"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      }
+    ],
+    "repositories": [
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace"
+    ]
+  },
+  "React": {
+    "categories": [
+      "Frontend"
+    ],
+    "evidence": [
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Redis": {
+    "categories": [
+      "Data & Messaging"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Redpanda": {
+    "categories": [
+      "Data & Messaging"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Rust": {
+    "categories": [
+      "Languages"
+    ],
+    "evidence": [
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/finance-research-copilot",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "S3-compatible storage": {
+    "categories": [
+      "Data & Messaging"
+    ],
+    "evidence": [
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/docker-compose.yml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Serde": {
+    "categories": [
+      "Backend & Systems"
+    ],
+    "evidence": [
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/finance-research-copilot",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Tailwind CSS": {
+    "categories": [
+      "Frontend"
+    ],
+    "evidence": [
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Terraform": {
+    "categories": [
+      "Cloud Native & Platform"
+    ],
+    "evidence": [
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/terraform/outputs.tf",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/terraform/variables.tf",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/terraform/outputs.tf",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/terraform/variables.tf",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/terraform/outputs.tf",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/terraform/variables.tf",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/terraform/outputs.tf",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/terraform/variables.tf",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/terraform/outputs.tf",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/terraform/variables.tf",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/terraform/outputs.tf",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/terraform/variables.tf",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/terraform/outputs.tf",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/terraform/variables.tf",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/terraform/outputs.tf",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/terraform/variables.tf",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/terraform/outputs.tf",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/terraform/variables.tf",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/terraform/main.tf",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/terraform/outputs.tf",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "infrastructure/terraform/variables.tf",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Three.js": {
+    "categories": [
+      "Frontend"
+    ],
+    "evidence": [
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "Tokio": {
+    "categories": [
+      "Backend & Systems"
+    ],
+    "evidence": [
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/engine/Cargo.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/finance-research-copilot",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "TypeScript": {
+    "categories": [
+      "Frontend",
+      "Languages"
+    ],
+    "evidence": [
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "apps/marketing/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "apps/web/package.json",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "GitHub languages API",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "gRPC": {
+    "categories": [
+      "Backend & Systems"
+    ],
+    "evidence": [
+      {
+        "path": "infrastructure/observability/otel-collector.yaml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "infrastructure/observability/otel-collector.yaml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "infrastructure/observability/otel-collector.yaml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "infrastructure/observability/otel-collector.yaml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "infrastructure/observability/otel-collector.yaml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "infrastructure/observability/otel-collector.yaml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "infrastructure/observability/otel-collector.yaml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "infrastructure/observability/otel-collector.yaml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "infrastructure/observability/otel-collector.yaml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "infrastructure/observability/otel-collector.yaml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  },
+  "pgvector": {
+    "categories": [
+      "Data & Messaging"
+    ],
+    "evidence": [
+      {
+        "path": "README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "architecture/README.md",
+        "repository": "meligavincent/matrix-research-workspace"
+      }
+    ],
+    "repositories": [
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace"
+    ]
+  },
+  "uv": {
+    "categories": [
+      "Backend & Systems"
+    ],
+    "evidence": [
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/quant-strategy-studio"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/finance-research-copilot"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/matrix-research-workspace"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/agentic-compliance-platform"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/clinical-ambient-copilot"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/clinical-workflow-intelligence"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/teacher-student-ai-platform"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/adaptive-math-tutor"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/merchant-operations-agent"
+      },
+      {
+        "path": "services/ai/pyproject.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "services/api/pyproject.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      },
+      {
+        "path": "services/workers/pyproject.toml",
+        "repository": "meligavincent/customer-outcomes-agent"
+      }
+    ],
+    "repositories": [
+      "meligavincent/quant-strategy-studio",
+      "meligavincent/finance-research-copilot",
+      "meligavincent/matrix-research-workspace",
+      "meligavincent/agentic-compliance-platform",
+      "meligavincent/clinical-ambient-copilot",
+      "meligavincent/clinical-workflow-intelligence",
+      "meligavincent/teacher-student-ai-platform",
+      "meligavincent/adaptive-math-tutor",
+      "meligavincent/merchant-operations-agent",
+      "meligavincent/customer-outcomes-agent"
+    ]
+  }
+}
