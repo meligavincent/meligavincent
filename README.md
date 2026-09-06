@@ -1,78 +1,69 @@
+# Vincent Meliga
 
-# 👋 MELIGA Vincent — AI Engineer & Senior Software Engineer
-**MLOps · LLMOps · C++ · Python · Rust · Systems for ML**
+**AI Engineer | GenAI, AI Agents, MLOps/LLMOps | Cloud-Native · Kubernetes | AWS · Azure | Python · Rust · TypeScript**
 
-> I build end-to-end AI platforms: data → training → eval → serving → SLOs.  
-> Strong focus on reliability, performance, and clean software architecture.
+I build end-to-end **AI-native products and cloud-native systems** — from product interfaces and backend services to AI workflows, infrastructure, reliability and observability.
 
-- 🧠 Current: production LLM features (RAG/agents/evals), GPU serving, low-latency APIs
-- 🧩 Strengths: C++/Rust/Python systems, perf optimization, API design, large-scale CI/CD for ML
-- 🤝 Open to collaborate on inference optimization, AI gateways, and MLOps tooling
-- 📫 **699580621meliga@gmail.com** · WhatsApp: `+237655379258`
+My work sits at the intersection of **AI Engineering, Software Engineering and Solution Architecture**, with a particular interest in systems solving real business problems in **quantitative trading, banking/fintech, healthcare, education and commerce**.
 
----
+## What I Build
 
-## 🔥 Highlights (C++ & Python)
-- **C++ (advanced):** modern C++17/20, templates, move semantics, RAII, concurrency, lock-free queues, SIMD, sanitizers (ASan/TSan), **CMake/Conan**, gRPC/Protobuf, Eigen.
-- **Python (advanced):** clean packaging (Poetry/pip-tools), **type-safe** code (PEP 484, mypy), async I/O (asyncio), profiling (cProfile, py-spy), vectorized NumPy/Pandas, **pytest + hypothesis**.
-- **Cross-language bridges:** **pybind11**, Cython/Numba, ONNX Runtime/TensorRT bindings; zero-copy data paths where possible.
-- **Quality & reliability:** SOLID, hexagonal/ports-adapters, DDD where it helps, structured logging, feature flags, **contract tests**, property-based tests, golden datasets for LLM evals.
+- **GenAI & Agentic Systems** — LLM applications, RAG, AI agents, tool calling, evaluation, guardrails and human-in-the-loop workflows.
+- **Cloud-Native AI Platforms** — Python/FastAPI and Rust services, Kubernetes, Terraform, Helm, GitOps, CI/CD and observability.
+- **Full-Stack AI Products** — Next.js, React and TypeScript applications connected to production APIs, data pipelines and AI services.
+- **Production Engineering** — security, testing, reliability, load testing, SLOs, deployment strategies and cost-aware architecture.
 
----
+## Selected Work
 
-## 🧰 Languages & Core Tech
-<p>
-  <img alt="C++" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Python" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Rust" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img alt="TypeScript" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img alt="Bash" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</p>
+### [FinSage](https://github.com/meligavincent/finsage-fintech-landing)
 
-- **ML/DL:** PyTorch, TensorFlow, scikit-learn, XGBoost, ONNX  
-- **LLMOps:** vLLM / TGI, HF Transformers, LangChain/LlamaIndex, RAG, agents, prompt+eval  
-- **Serving:** FastAPI/gRPC, **BentoML**, NVIDIA Triton (as needed), TorchServe  
-- **Pipelines:** Airflow / Prefect · Feature stores · Data contracts  
-- **Infra:** Docker, K8s, Helm, Terraform · GitHub Actions/GitLab CI  
-- **Observability:** Prometheus, Grafana, OpenTelemetry (metrics/traces/logs)  
-- **Data/Messaging:** PostgreSQL/pgvector, Redis, Kafka, MinIO (S3)
+Premium fintech frontend concept for an AI-assisted investing platform, built with **Next.js, React, TypeScript, Tailwind CSS and GSAP**.
 
----
+Focus: market intelligence UX, AI terminal interfaces, signal-processing visualization, motion engineering and responsive design.
 
-## 🛠️ Software Engineering (advanced)
-- **Architecture:** hexagonal, CQRS where justified, clean module boundaries, public/private APIs  
-- **Perf:** CPU/GPU profiling, flamegraphs, Amdahl’s law in practice, batching/fusing, caching  
-- **Safety:** fuzzing, sanitizers, static analysis (**clang-tidy**, cppcheck, mypy)  
-- **Testing:** unit/integration/property tests; dataset determinism; seeded ML experiments  
-- **Delivery:** versioned artifacts, blue-green/canary deploys, rollbacks, SLOs/SLIs
+### [Mveng](https://github.com/meligavincent/Mveng)
 
----
+Voice-first AI assistant built around **Rust/Axum, Whisper, Ollama, WebSockets, Redis and PostgreSQL**.
 
-## 🧩 What I Build
-- **Production RAG/Agents:** ingestion → chunking → embeddings → retrieval → grounded answer; evals with RAGAS, golden sets, regression gates in CI.  
-- **High-Perf Serving:** C++/Rust microservices (Axum/gRPC) wrapping ONNX/TensorRT; request batching; backpressure; zero-copy.  
-- **Model Lifecycle:** MLflow tracking/registry → packaging with BentoML → K8s deploys with autoscaling and cost/latency dashboards.
+Focus: real-time AI interaction, streaming, backend systems and containerized AI services.
 
----
+### [PureCPP](https://github.com/meligavincent/purecpp)
 
-## 🚀 Featured (pin your actual repos)
-- **`rust-inference-gateway`** — Rust (Axum) gateway with batching, rate limits, OpenTelemetry.  
-- **`cpp-features`** — C++ feature transforms & SIMD kernels exported to Python via **pybind11**.  
-- **`rag-on-postgres`** — RAG with pgvector + Transformers; eval & drift dashboards.  
-- **`mlops-template`** — Cookiecutter: MLflow + BentoML + Airflow + K8s + CI/CD.
+Native **C++ backend for Retrieval-Augmented Generation (RAG)** with Python bindings, CMake/Conan tooling, Docker builds and ONNX integration.
 
-> _Tip:_ Pin these (or your real repos) so they appear on your profile home.
+Focus: AI systems engineering, native performance and Python/C++ interoperability.
 
----
+## Current Engineering Direction
 
-## 📚 Learning & Interests
-CUDA kernels for inference; structured LLM evals & safety; secure AI gateways (authZ, PII scrub).
+I am building a portfolio of **complete AI-native products**, developed end-to-end:
 
----
+`Landing Page → Web App → Backend → AI/ML Layer → Cloud-Native Infrastructure → Observability → Benchmarks`
 
-## 📊 Stats
-![Stacvirus's GitHub stats](https://github-readme-stats.vercel.app/api?username=meligavincent&show_icons=true&theme=gruvbox)
+Each project starts with a **real business problem**, followed by requirements analysis, solution architecture and system design.
 
----
+The technologies are implementation choices — not the project itself.
 
+For products where the use case requires it, I design the architecture around explicit scale targets of **up to 100,000 users**, then validate those assumptions through load testing, observability and documented benchmarks.
 
+## Core Stack
+
+| Area | Technologies |
+| --- | --- |
+| **AI Engineering** | LLMs, RAG, AI Agents, MLOps, LLMOps, PyTorch, TensorFlow, Hugging Face |
+| **Backend & Systems** | Python, FastAPI, Rust, Axum, C++, REST, gRPC, WebSockets |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, GSAP, Three.js |
+| **Cloud & Platform** | Kubernetes, AWS, Azure, Docker, Terraform, Helm, Argo CD, GitLab CI/CD, GitOps |
+| **Data & Messaging** | PostgreSQL, pgvector, Redis, Kafka, S3-compatible storage |
+| **Observability** | Prometheus, Grafana, OpenTelemetry, structured logging |
+
+## Engineering Principles
+
+**Clean Architecture · Explicit Trade-offs · Security by Design · Testability · Observability · Reproducibility · Performance · Reliability · Cost Awareness**
+
+## Opportunities
+
+Open to **international remote roles, engineering contracts and relocation opportunities worldwide**.
+
+Particularly interested in **AI Engineering, Generative AI, AI Platform Engineering, ML Systems and Cloud-Native Engineering**, including opportunities in **quantitative trading, banking and fintech**.
+
+[LinkedIn](https://www.linkedin.com/in/vincent-th%C3%A9ophane-meliga-naga-97934b17b/) · **699580621meliga@gmail.com**
